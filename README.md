@@ -12,7 +12,7 @@
 
 - PC
 
-<h3>À propos</h3>
+<h3>ℹ️ À propos</h3>
 
 Ce projet a été réalisé par une équipe de 4 game programmers sur une durée de 4 mois.
 <br>Le but de ce projet était de créer un moteur de jeu fonctionnel entièrement personnalisé, de l’éditeur à l’exécution incluant des fonctionnalités uniques conçues spécifiquement pour ce moteur.</br>
