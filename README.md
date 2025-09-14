@@ -32,7 +32,7 @@ Ce projet a été réalisé par une équipe de 4 game programmers sur une durée
 
 <h4>Lors de ce projet, j'ai implémenté :</h4>
   <ul>
-    <li>l'«Entité Component System» (ECS) qui permet de gérer plus efficacement les <i>components</i></li>
+    <li>l'«Entité Component System» (ECS) qui permet de gérer plus efficacement les <i>components</i>.</li>
     <li>Jolt, le moteur physique que nous avons choisi.</li>
     <li>la sauvegarde de scène et des matériaux en format .json.</li>
     <li>le multithreading.</li>
