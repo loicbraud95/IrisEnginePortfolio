@@ -26,13 +26,13 @@ Ce projet a été réalisé par une équipe de 4 game programmers sur une durée
 - créer une scène.
 - ajouter des objets.
 - interagir avec eux.
-- et leur ajouter différents composants tels que : lumière, physique, caméra, script, model renderer (permettant d’afficher l’objet).
+- et leur ajouter différents <i>components</i> tels que : lumière, physique, caméra, script, model renderer (permettant d’afficher l’objet).
 
 <br>Un important travail de gestion de projet a été réalisé à l’aide des méthodes Agile Scrum et MoSCoW. Le suivi des tâches a été effectué tout au long du développement via des tableaux Excel, permettant de garder un suivi des fonctionnalités à implémenter et de structurer l’avancement du projet.</br>
 
 <h4>Lors de ce projet, j'ai implémenté :</h4>
   <ul>
-    <li>l'«Entité Component System» (ECS) qui permet de gérer plus efficacement les components.</li>
+    <li>l'«Entité Component System» (ECS) qui permet de gérer plus efficacement les <i>components</i></li>
     <li>Jolt, le moteur physique que nous avons choisi.</li>
     <li>la sauvegarde de scène et des matériaux en format .json.</li>
     <li>le multithreading.</li>
