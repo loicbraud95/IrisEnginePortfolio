@@ -1,6 +1,6 @@
 <h2><img src="https://imgur.com/22kTi4z.png" height="10%" width="10%"/> Iris Engine </h2>
 
-<a href= "https://github.com/Iris-Engine-Team/Iris-Engine" >Link to repos</a>
+<a href= "https://github.com/Iris-Engine-Team/Iris-Engine" >Link to repository</a>
 
 <h3>🛠️ Outils</h3>
 
